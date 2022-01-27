@@ -1,0 +1,22 @@
+body {
+    font-family: 'Dongle', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+h1 {
+    font-size: 80px;
+    color: palegreen;
+}
+
+h2 {
+    color: palegreen;
+    font-size: 30px;
+}
+
+#body {
+    color:#D96098;
+    background-color: #FAEEE7;
+}
+p {
+    font-size: 18px;
+}
+
